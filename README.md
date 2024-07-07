@@ -11,4 +11,6 @@ Project #2 - Testcase and Test Plan for App.vwo.com
 
 1. Test Plan
 2. Testcases
+<img width="928" alt="image" src="https://github.com/sravanthigolla/SoftwareTestingProjects/assets/174857482/4fc6c7e2-9dca-4333-8c34-37374105e22e">
+
 
