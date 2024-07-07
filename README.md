@@ -9,6 +9,6 @@ Project #1 - Write the Test case for the Coffee Machine CCD Coffee machine Bru -
 
 Project #2 - Testcase and Test Plan for App.vwo.com
 
-Test Plan
-Testcases
+1. Test Plan
+2. Testcases
 
